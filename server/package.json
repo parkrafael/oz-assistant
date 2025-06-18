@@ -1,0 +1,11 @@
+{
+	"name": "oz-assistant",
+	"version": "1.0.0",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"type": "module",
+	"dependencies": {
+		"ws": "^8.18.2"
+	}
+}
